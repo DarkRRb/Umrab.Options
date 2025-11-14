@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Umrab.Options.Test/Umrab.Options.Test.csproj" />
+  <Project Path="Umrab.Options/Umrab.Options.csproj" />
+</Solution>

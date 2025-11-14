@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Nullable>enable</Nullable>
+    <TargetFramework>net10.0</TargetFramework>
+
+    <PackageVersion>0.0.4-beta</PackageVersion>
+    <Authors>DarkRRb</Authors>
+    <Description>A option parser</Description>
+    <Copyright>MIT</Copyright>
+    <PackageProjectUrl>https://github.com/DarkRRb/Umrab.Options</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/DarkRRb/Umrab.Options</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../README.md" Pack="true" PackagePath="/" />
+  </ItemGroup>
+</Project>
